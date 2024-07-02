@@ -1,7 +1,7 @@
 public class Dbcreds {
-    private final String url = "jdbc:postgresql://localhost:5432/project";
-    private final String userName = "postgres";
-    private final String pass = "5353";
+    private final String url = "Your URL";
+    private final String userName = "YOUR USERNAME";
+    private final String pass = "YOUR PASS";
 
     public String getUrl()
     {
